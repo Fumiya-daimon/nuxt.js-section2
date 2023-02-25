@@ -1,7 +1,9 @@
 <template>
   <div>
     about<br>
-    {{ now }}
+    {{ now }}<br>
+    <img src="~/assets/images/img1.jpg" width="300"><br>
+    <div class="red-b">assets/cssのテスト</div>
   </div>
 </template>
 
@@ -19,5 +21,4 @@ export default {
 </script>
 
 <style>
-
 </style>
